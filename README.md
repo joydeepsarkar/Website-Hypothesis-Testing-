@@ -1,7 +1,5 @@
 # Website-Hypothesis-Testing
 
-# Hypothesis Testing Notebook
-
 This Jupyter Notebook is designed to perform hypothesis testing on a dataset containing user interaction metrics. The primary objective is to analyze and compare different themes (e.g., light theme vs. dark theme) to determine if there are statistically significant differences in various metrics.
 
 ## Contents
