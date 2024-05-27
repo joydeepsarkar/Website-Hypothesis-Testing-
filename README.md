@@ -55,7 +55,3 @@ The notebook performs t-tests to compare means between different themes. The tes
 ## Conclusion
 
 The notebook concludes with a summary of the findings from the hypothesis tests and provides insights into the potential implications of these findings for website design and user experience.
-
----
-
-This README provides a structured overview of the notebook, helping users understand its purpose, how to run it, and what to expect from the analysis.
